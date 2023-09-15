@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @esullivan17
-- 👀 I’m interested in datascience, space, marine life
+- 👀 I’m interested in datascience,
 - 🌱 I’m currently learning programming and analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me esullivan202@gmail.com or ecs5690@psu.edu
