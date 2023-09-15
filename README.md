@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @esullivan17
-- 👀 I’m interested in datascience,
-- 🌱 I’m currently learning programming and analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me esullivan202@gmail.com or ecs5690@psu.edu
+- 👀 I’m interested in data science, data analytics, and machine learning
+- 🌱 I’m currently working as a Data Analyst Intern at PSECU
+- 📫 You can reach me at ecs5690@psu.edu
 
 <!---
 esullivan17/esullivan17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
